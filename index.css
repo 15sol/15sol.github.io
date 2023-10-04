@@ -1,0 +1,153 @@
+*{
+  font-family: 'Emilys Candy', cursive;
+font-family: 'Salsa', cursive;
+}
+
+body {
+ 
+  background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+  overflow-y: scroll;
+ }
+ 
+ 
+#poema{
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    background-size: cover;
+    border-radius: 25px;
+    margin:0% auto;
+    box-shadow:0 0 0 2px #730379;
+    margin-bottom: 20px;
+}
+#poema1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cuenta-regresiva {
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  #tiempo {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #tiempo > div {
+    margin-right: 2rem;
+  }
+  
+  #tiempo > div:last-child {
+    margin-right: 0;
+  }
+  #tiempos{
+    background-color:#700286;
+    color: rgb(236, 223, 228);
+  }
+  #cronometro{
+    background-color: #030003;
+    color: #D4AF37 ;
+    opacity: 90%;  
+    text-align: center;
+      margin: 0%;
+      padding: 0%; 
+      margin-bottom: 20px;
+      border: 2px;
+    border-color:#D4AF37 ;
+    border-style:solid ;
+    border-width: 3px 3px 3px;
+  }
+  #direccion{
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    background-size: cover;
+    border-radius: 15px;
+    margin:0% auto;
+    box-shadow:0 0 0 2px #3f0335;
+    margin-bottom: 20px;
+  }
+  #direccion2{
+    background-image: url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    background-size: cover;
+    border:0%;
+    margin-bottom: 20px;
+  }
+  #plata{
+  background-color: #030003;
+  color: #ffe694 ;
+  opacity: 90%;  
+  text-align: center;
+    margin: 0%;
+    padding: 0%; 
+    margin-bottom: 20px;
+    border: 1px;
+  border-color:#550648 ;
+  border-style:solid ;
+  border-width: 3px 3px 3px;
+ 
+  }
+  .botonentrar{
+    
+  background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+    color: #69240C;
+    border-radius: 2%;
+    border: #69240C;
+    box-shadow:0 0 0 2px #69240C;
+  }
+  #bot{
+ 
+    background-image:url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+    border-color: #69240C;
+  }
+  #espero{
+    text-align: center;
+    color: #3f0335;
+  }
+  #fin{
+    background-image:url("https://thumbs.dreamstime.com/b/fondo-pastel-de-arcoiris-borroso-abstracto-arte-azul-color-claro-brillante-forma-colorido-efecto-gradiente-ilustraci%C3%B3n-verde-209896509.jpg");
+    color: #380544 ;
+    opacity: 90%;  
+    text-align: center;
+      margin: 0%;
+      padding: 0%; 
+      margin-bottom: 20px;
+      border: 2px;
+    border-color:#5b0663 ;
+    border-style:solid ;
+    border-width: 3px 3px 3px;}
+  
+    #playButton {
+      position:fixed;
+      border: 50%;
+      right: 86%;
+      top: 70%;
+      background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+     border-radius: 100%;
+      border: 50%;
+      box-shadow:0 0 0 2px #69240C;
+      color:rgb(78, 14, 25);
+      inline-size: 999999;
+    
+    }
+    
+    #playButton img {
+      width: 10px;}
+
+      #playButton1 {
+        position:fixed;
+        border-radius:100% ;
+        border: 50%;
+        right: 75%;
+        top: 70%;
+        background-image: url("https://i.pinimg.com/564x/d7/98/c6/d798c6a834d6a79ef751c8c28ffaf1dd.jpg") ;
+        border: 50%;
+        box-shadow:0 0 0 2px #69240C;
+        color:rgb(39, 17, 21);
+        inline-size: 999999;
+      
+      }
+      
+      #playButton1 img {
+        width: 10px;}
+      #musica{
+        display: flex;
+      }
